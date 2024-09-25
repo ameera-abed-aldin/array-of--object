@@ -1,0 +1,12 @@
+main{
+    width:50%;
+    margin:20px auto;
+background-color: rgb(242, 242, 242);
+}
+.flex{
+    display:flex
+}
+table{
+    width:90%;
+    margin:20px auto;
+}
